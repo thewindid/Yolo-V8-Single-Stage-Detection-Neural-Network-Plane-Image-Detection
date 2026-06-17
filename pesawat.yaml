@@ -1,0 +1,10 @@
+
+# train and val datasets (image directory or *.txt file with image paths)
+train: D:/KPJ/Semester 6/SDM/Responsi SDM/Archive/pasca/data/train/images
+val: D:/KPJ/Semester 6/SDM/Responsi SDM/Archive/pasca/data/val/images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Pesawat']
